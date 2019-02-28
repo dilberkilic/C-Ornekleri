@@ -5,5 +5,5 @@ int main ()
 { 
 	printf("merhaba dunya\n"); // \n (new line ) alt satira gecmek icin kullanilir.
 	system("pause);
-	return 0;
+	return 0; 
 }
