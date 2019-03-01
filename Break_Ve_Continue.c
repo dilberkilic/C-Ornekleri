@@ -3,7 +3,7 @@
 int main()
 {
 	int sayi = 0;
-	while (true) // boyle yazarsanız dongu sonsuz olur.
+	while (true) // boyle yazarsanız dongu sonsuz olur. For icin ise sonsuz dongu = for( ; ; ;) { } yazilarak yapilir.
 	{
 		
 		sayi++;
