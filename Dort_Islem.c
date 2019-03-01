@@ -10,6 +10,6 @@ int main() {
 	printf("carpim:%d\n", sa1*sa2);
 	printf("bolum:%f\n", ((float)sa1 / sa2)); // Eger  floata cevirmeseydik program hata verecekti bunun nedeni sayilarimizi int olarak  ama bolumu float olarak tanitmamizdir.
 	printf("mod:%d\n", sa1 % sa2); 
-	system("pause");
+	system("pause"); 
 	return 0;
 }
