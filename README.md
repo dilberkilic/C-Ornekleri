@@ -1,5 +1,5 @@
 # C-Örnekleri
 C programlama dilinde sorular.
-#AMACI 
+# AMACI  
 C programlama dilini sorular ile anlatmak.
 
